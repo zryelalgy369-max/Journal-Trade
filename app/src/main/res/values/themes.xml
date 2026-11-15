@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Jurnal" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@color/jurnal_bg</item>
+        <item name="android:statusBarColor">@color/jurnal_bg</item>
+        <item name="android:navigationBarColor">@color/jurnal_bg</item>
+    </style>
+</resources>
